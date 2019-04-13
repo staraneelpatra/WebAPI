@@ -1,0 +1,16 @@
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/WebAPIDemo.dll
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/WebAPIDemo.pdb
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/Newtonsoft.Json.dll
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/System.Net.Http.Formatting.dll
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/System.Web.Http.dll
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/System.Web.Http.WebHost.dll
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/Newtonsoft.Json.pdb
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/Newtonsoft.Json.xml
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/System.Net.Http.Formatting.xml
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/System.Web.Http.xml
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/System.Web.Http.WebHost.xml
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/obj/Debug/WebAPIDemo.csprojAssemblyReference.cache
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/obj/Debug/WebAPIDemo.csproj.CoreCompileInputs.cache
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/obj/Debug/WebAPIDemo.csproj.CopyComplete
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/obj/Debug/WebAPIDemo.dll
+/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/obj/Debug/WebAPIDemo.pdb
