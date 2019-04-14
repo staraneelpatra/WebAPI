@@ -1,0 +1,11 @@
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebAPISQL\EmployeeDataAdapter\bin\Debug\EmployeeDataAdapter.dll.config
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebAPISQL\EmployeeDataAdapter\bin\Debug\EmployeeDataAdapter.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebAPISQL\EmployeeDataAdapter\bin\Debug\EmployeeDataAdapter.pdb
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebAPISQL\EmployeeDataAdapter\bin\Debug\EntityFramework.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebAPISQL\EmployeeDataAdapter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebAPISQL\EmployeeDataAdapter\bin\Debug\EntityFramework.xml
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebAPISQL\EmployeeDataAdapter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebAPISQL\EmployeeDataAdapter\obj\Debug\EmployeeDataAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebAPISQL\EmployeeDataAdapter\obj\Debug\EmployeeDataAdapter.csproj.CopyComplete
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebAPISQL\EmployeeDataAdapter\obj\Debug\EmployeeDataAdapter.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebAPISQL\EmployeeDataAdapter\obj\Debug\EmployeeDataAdapter.pdb
