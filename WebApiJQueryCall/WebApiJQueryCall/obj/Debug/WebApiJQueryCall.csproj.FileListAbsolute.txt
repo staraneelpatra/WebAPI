@@ -1,6 +1,5 @@
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\obj\Debug\WebApiJQueryCall.csprojAssemblyReference.cache
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\obj\Debug\WebApiJQueryCall.csproj.CoreCompileInputs.cache
-C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\WebApiJQueryCall.dll.config
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\WebApiJQueryCall.dll
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\WebApiJQueryCall.pdb
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\roslyn\csc.exe

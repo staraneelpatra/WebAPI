@@ -23,7 +23,7 @@ namespace WebApiJQueryCall.Controllers
             catch (Exception e)
             {
                 return (Request.CreateResponse(HttpStatusCode.NotFound, e));
-            }           
+            }
         }
 
         [HttpGet]
@@ -31,7 +31,7 @@ namespace WebApiJQueryCall.Controllers
         {
             try
             {
-                using (TharEntities con= new TharEntities())
+                using (TharEntities con = new TharEntities())
                 {
                     Bird bird = con.Birds.FirstOrDefault(x => x.ID == id);
                     if (bird != null)
@@ -40,7 +40,7 @@ namespace WebApiJQueryCall.Controllers
                     }
                     else
                     {
-                        return (Request.CreateErrorResponse(HttpStatusCode.NotFound, id.ToString() + " not found"));
+                        return (Request.CreateErrorResponse(HttpStatusCode.NotFound, id.ToString() + " No Bird Found"));
                     }
                 }
             }
@@ -49,5 +49,41 @@ namespace WebApiJQueryCall.Controllers
                 return (Request.CreateErrorResponse(HttpStatusCode.BadRequest, e));
             }
         }
+        [HttpPost]
+        public HttpResponseMessage InsertBird([FromBody]IEnumerable<Bird> det)
+        {
+            using (TharEntities insertbird = new TharEntities())
+            {
+                if (det != null)
+                {
+                    foreach (var item in det)
+                    {
+                        insertbird.Birds.Add(item);
+
+
+                    }
+                    insertbird.SaveChanges();
+                    return (Request.CreateResponse(HttpStatusCode.OK, "Added " + insertbird.Birds.Select(x => x.BirdName)));
+                }
+                else
+                {
+                    return (Request.CreateErrorResponse(HttpStatusCode.NotModified, "Unable to add row"));
+                }
+            }
+        }
+        [HttpPut]
+        public HttpResponseMessage UpdateBird(int id, [FromBody]Bird pakshi)
+        {
+            using (TharEntities te = new TharEntities())
+            {
+                Bird birddetails = te.Birds.FirstOrDefault(x => x.ID == id);
+                birddetails.BirdName = pakshi.BirdName;
+                birddetails.ScientificName = birddetails.ScientificName;
+                birddetails.TypeOfBird = birddetails.TypeOfBird;
+                te.SaveChanges();
+            }
+            return (Request.CreateResponse(HttpStatusCode.OK, "Row updated"));
+        }
     }
 }
+
