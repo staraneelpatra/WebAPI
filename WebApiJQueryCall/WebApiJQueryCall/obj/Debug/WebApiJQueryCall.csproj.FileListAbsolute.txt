@@ -1,5 +1,4 @@
-C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\obj\Debug\WebApiJQueryCall.csprojAssemblyReference.cache
-C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\obj\Debug\WebApiJQueryCall.csproj.CoreCompileInputs.cache
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\WebApiJQueryCall.dll.config
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\WebApiJQueryCall.dll
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\WebApiJQueryCall.pdb
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\roslyn\csc.exe
@@ -65,6 +64,13 @@ C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryC
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\System.Web.Http.xml
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\System.Web.Http.WebHost.xml
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\obj\Debug\WebApiJQueryCall.csprojAssemblyReference.cache
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\obj\Debug\WebApiJQueryCall.csproj.CoreCompileInputs.cache
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\obj\Debug\WebApiJQueryCall.csproj.CopyComplete
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\obj\Debug\WebApiJQueryCall.dll
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\obj\Debug\WebApiJQueryCall.pdb
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\WebApiContrib.Formatting.Jsonp.pdb
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\System.Web.Cors.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\System.Web.Http.Cors.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\WebApiJQueryCall\bin\System.Web.Http.Cors.xml

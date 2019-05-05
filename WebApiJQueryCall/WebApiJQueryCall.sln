@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiJQueryCall", "WebApiJ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdsFacade", "BirdsFacade\BirdsFacade.csproj", "{453B0F8A-9B86-4B68-B7DA-956E1BEAA783}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApplication", "ClientApplication\ClientApplication.csproj", "{6F84D1CB-A05E-4711-800C-D91DDC6F7DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{453B0F8A-9B86-4B68-B7DA-956E1BEAA783}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{453B0F8A-9B86-4B68-B7DA-956E1BEAA783}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{453B0F8A-9B86-4B68-B7DA-956E1BEAA783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F84D1CB-A05E-4711-800C-D91DDC6F7DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F84D1CB-A05E-4711-800C-D91DDC6F7DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F84D1CB-A05E-4711-800C-D91DDC6F7DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F84D1CB-A05E-4711-800C-D91DDC6F7DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
