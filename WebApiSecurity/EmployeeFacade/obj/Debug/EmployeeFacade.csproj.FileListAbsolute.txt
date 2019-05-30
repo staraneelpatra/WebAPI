@@ -5,7 +5,6 @@ C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\bin\Debug\EntityFramework.xml
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\obj\Debug\EmployeeFacade.csprojAssemblyReference.cache
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\obj\Debug\EmployeeFacade.csproj.CoreCompileInputs.cache
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\obj\Debug\EmployeeFacade.csproj.CopyComplete
 C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\obj\Debug\EmployeeFacade.dll

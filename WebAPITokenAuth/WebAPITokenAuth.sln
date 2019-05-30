@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPITokenAuth", "WebAPITokenAuth\WebAPITokenAuth.csproj", "{ADA7C22B-34A0-4EC8-A636-4CFECE808405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA7C22B-34A0-4EC8-A636-4CFECE808405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA7C22B-34A0-4EC8-A636-4CFECE808405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA7C22B-34A0-4EC8-A636-4CFECE808405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA7C22B-34A0-4EC8-A636-4CFECE808405}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6D9E8F7-A583-4EFD-8C83-9E84F9466577}
+	EndGlobalSection
+EndGlobal

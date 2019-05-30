@@ -13,7 +13,7 @@ namespace WebApiSecurity.Controllers
     {
         [HttpGet]
         [BasicAuthentication]
-        public HttpResponseMessage GetEmployee(String desig="All")
+        public HttpResponseMessage GetEmployee(String desig)
         {
             string designation = Thread.CurrentPrincipal.Identity.Name;
         
@@ -21,10 +21,12 @@ namespace WebApiSecurity.Controllers
             {
                 switch (designation.ToLower())
                 {
-                    case "Accountant":
-                        return request.creat
+                    case "accountant":
+                        return Request.CreateResponse(HttpStatusCode.OK, con.Employees.Where(x=>x.Designation=="accountant").ToList());
+                    default:
+                        return (Request.CreateResponse(HttpStatusCode.BadRequest));
                 }
-                return (Request.CreateResponse(HttpStatusCode.OK, con.Employees.ToList()));
+                
             }
         } 
     }
