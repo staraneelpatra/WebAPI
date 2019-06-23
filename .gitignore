@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebAPISQL/.vs/WebAPISQL/v15/Server/sqlite3
+/WebAPISQL/.vs/WebAPISQL/v16
+/WebApiJQueryCall/.vs/WebApiJQueryCall/v16
+/WebApiSecurity/.vs/WebApiSecurity/v16
+/WebAPITokenAuth/.vs/WebAPITokenAuth/v16

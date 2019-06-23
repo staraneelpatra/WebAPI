@@ -1,0 +1,12 @@
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\bin\Debug\BirdsFacade.dll.config
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\bin\Debug\BirdsFacade.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\bin\Debug\BirdsFacade.pdb
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\bin\Debug\EntityFramework.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\bin\Debug\EntityFramework.xml
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\obj\Debug\BirdsFacade.csprojAssemblyReference.cache
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\obj\Debug\BirdsFacade.csproj.CoreCompileInputs.cache
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\obj\Debug\BirdsFacade.csproj.CopyComplete
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\obj\Debug\BirdsFacade.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiJQueryCall\BirdsFacade\obj\Debug\BirdsFacade.pdb

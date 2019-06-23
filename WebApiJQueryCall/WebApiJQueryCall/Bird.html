@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Birds Home</title>
+    <script src="Scripts/jquery-3.4.1.intellisense.js"></script>
+    <script src="Scripts/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        
+        $(document).ready(function () {
+            var birds = $('#ul1');
+            $('#btn').click(function () {
+                $.ajax({
+                    type: 'GET',
+                    url: 'api/Home',
+                    //dataType: 'jsonp',
+                    dataType: 'json',
+                    success: function (data) {
+                        birds.empty();
+                        $.each(data, function (index, val) {
+                            var BirdName = val.ScientificName;
+                            birds.append('<li>' + BirdName + '</li> ')
+                        });
+                    }
+                });
+            });
+
+            $('#btnclear').click(function () {
+                birds.empty()
+            });
+        });
+    </script>
+</head>
+<body>
+    <input id="btn" value="Get Birds" type="button"/>
+    <input id="btnclear" value="Clear" type="button" />
+    <ul id="ul1"></ul>
+</body>
+</html>

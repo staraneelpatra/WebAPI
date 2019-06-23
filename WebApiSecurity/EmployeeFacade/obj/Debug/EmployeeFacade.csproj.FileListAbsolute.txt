@@ -1,0 +1,11 @@
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\bin\Debug\EmployeeFacade.dll.config
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\bin\Debug\EmployeeFacade.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\bin\Debug\EmployeeFacade.pdb
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\bin\Debug\EntityFramework.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\bin\Debug\EntityFramework.xml
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\obj\Debug\EmployeeFacade.csproj.CoreCompileInputs.cache
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\obj\Debug\EmployeeFacade.csproj.CopyComplete
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\obj\Debug\EmployeeFacade.dll
+C:\Users\Snigd\source\repos\staraneelpatra\WebAPI\WebApiSecurity\EmployeeFacade\obj\Debug\EmployeeFacade.pdb
