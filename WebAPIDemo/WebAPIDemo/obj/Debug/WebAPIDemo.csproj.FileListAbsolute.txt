@@ -4,7 +4,6 @@
 /Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/System.Net.Http.Formatting.dll
 /Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/System.Web.Http.dll
 /Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/System.Web.Http.WebHost.dll
-/Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/Newtonsoft.Json.pdb
 /Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/Newtonsoft.Json.xml
 /Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/System.Net.Http.Formatting.xml
 /Users/aneel/Git/WebAPI/WebAPIDemo/WebAPIDemo/bin/System.Web.Http.xml
