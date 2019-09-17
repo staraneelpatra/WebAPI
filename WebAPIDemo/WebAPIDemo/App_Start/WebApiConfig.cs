@@ -1,4 +1,5 @@
 ﻿using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace WebAPIDemo
 {
@@ -17,9 +18,11 @@ namespace WebAPIDemo
                 defaults: new { id = RouteParameter.Optional }
               );
             config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new System.Net.Http.Headers.MediaTypeHeaderValue("text/html"));
-                //config.Formatters.Remove(config.Formatters.JsonFormatter);
+            //config.Formatters.Remove(config.Formatters.JsonFormatter);
             //config.Formatters.Remove(config.Formatters.JsonFormatter);
             //config.Formatters.JsonFormatter.SerializerSettings.Formatting = Newtonsoft.Json.Formatting.Indented;
+            EnableCorsAttribute n = new EnableCorsAttribute("*","*","*");
+            config.EnableCors(n);
            }
     }
 }
